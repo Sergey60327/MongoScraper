@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Sergey60327/MongoScraper#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.1"
   }
 }
